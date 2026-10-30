@@ -1,0 +1,1 @@
+{"timestamp_utc": "2026-10-24T13:28:56+00:00", "event": "HIGH_CONNECTION_RATE", "source": "10.0.0.1", "connection_count": 5, "threshold": 5, "window_seconds": 10.0, "severity": "warning"}
